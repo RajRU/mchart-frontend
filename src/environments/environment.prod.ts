@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiURL: 'http://localhost:3000/v1'
+  apiURL: 'https://cyot.herokuapp.com/v1'
 };

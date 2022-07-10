@@ -1,0 +1,9 @@
+{
+  "apps": [
+      {
+          "name": "maiChart-backend",
+          "script": "npm",
+          "args" : "run start:prod"
+      }
+  ]
+}
